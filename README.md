@@ -23,6 +23,7 @@ You have the answer in the above section.
 
 ## How to contribute.
 With ease!
+And with peace!
 
 ## Copyright.
 This is a copyright notice.
