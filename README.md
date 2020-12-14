@@ -15,5 +15,11 @@ How cool you ask?
 How about -273 K?
 
 ## Deployment.
+At the end of the day, its all about deployment.
+With Introduction and Purpose, we can go only so far.
+This, as such, is a very cool deployment.
+Please dont ask how cool.
+You have the answer in the above section.
 
 ## How to contribute.
+With ease!
