@@ -23,3 +23,8 @@ You have the answer in the above section.
 
 ## How to contribute.
 With ease!
+
+## Copyright.
+This is a copyright notice.
+That means, you have no right to copy this work.
+You better mind that.
