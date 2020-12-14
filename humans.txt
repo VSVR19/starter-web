@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shane R Watson shane.r.watson@australia.edu @shanewatson33
 
 # THANKS
 
