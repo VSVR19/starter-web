@@ -4,6 +4,7 @@ This is a good course and I like it.
 You see, now am to learn Rebasing in Git.
 This was a topic in which I suffered a lot, back when I was an intern.
 Its time to change that!
+This is from the feature-branch: No pressure, enjoy your life.
 
 ## Introduction.
 This paragraph is all about introduction.
