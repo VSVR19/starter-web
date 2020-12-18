@@ -1,6 +1,9 @@
 # Starter web project.
 This is a simple website project for showing how to use Git and GitHub together.
 This is a good course and I like it.
+You see, now am to learn Rebasing in Git.
+This was a topic in which I suffered a lot, back when I was an intern.
+Its time to change that!
 
 ## Introduction.
 This paragraph is all about introduction.
