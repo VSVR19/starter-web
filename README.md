@@ -33,3 +33,5 @@ And with peace!
 This is a copyright notice.
 That means, you have no right to copy this work.
 You better mind that.
+
+This is an emergency fix from the Stashing section
