@@ -6,6 +6,8 @@ This was a topic in which I suffered a lot, back when I was an intern.
 Its time to change that!
 This is from the feature-branch: No pressure, enjoy your life.
 
+An emergency fix for the stash section.
+
 ## Introduction.
 This paragraph is all about introduction.
 Introduction matters a lot.
