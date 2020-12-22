@@ -11,6 +11,8 @@
     They are always on the field.
     Thanks to your batting collapses.
 
+    Adding before making any changes- Stash section.
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
